@@ -13,7 +13,7 @@ TechWeb Logistics is an AI-powered No-Code Website Builder designed to simplify 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Techweblogistics/Dashbaord/techweblogistic.git
+   git clone https://github.com/Techweblogistics/Dashbaord.git
    ```
 2. Navigate to the project directory:
    ```sh
