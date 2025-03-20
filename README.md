@@ -1,9 +1,11 @@
 # TechWeb Logistics - AI-Powered No-Code Website Builder
 
 ## Overview
+
 TechWeb Logistics is an AI-powered No-Code Website Builder designed to simplify website creation using automation and AI-driven enhancements. This platform enables users to build, customize, and optimize websites effortlessly without coding expertise.
 
 ## Features
+
 - AI-powered website generation
 - Drag-and-drop customization
 - Automated SEO and performance optimization
@@ -11,13 +13,14 @@ TechWeb Logistics is an AI-powered No-Code Website Builder designed to simplify 
 - Real-time AI-driven enhancements
 
 ## Installation
+
 1. Clone the repository:
    ```sh
    git clone https://github.com/Techweblogistics/Dashbaord.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd techweblogistics
+   cd Dashbaord
    ```
 3. Install dependencies:
    ```sh
@@ -41,7 +44,9 @@ TechWeb Logistics is an AI-powered No-Code Website Builder designed to simplify 
    ```
 
 ## Deployment
+
 To deploy the dashboard, follow these steps:
+
 1. Configure the `.env` file for production.
 2. Run database migrations:
    ```sh
@@ -50,5 +55,5 @@ To deploy the dashboard, follow these steps:
 3. Serve the application using Apache/Nginx with PHP.
 
 ## Contact
-For more information, visit [TechWeb Logistics](http://techweblogistics.com/) or access the dashboard at [TechWeb Logistics Dashboard](https://app.techweblogistics.com/login).
 
+For more information, visit [TechWeb Logistics](http://techweblogistics.com/) or access the dashboard at [TechWeb Logistics Dashboard](https://app.techweblogistics.com/login).
